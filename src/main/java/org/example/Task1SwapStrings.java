@@ -1,6 +1,6 @@
 package org.example;
 
-public class Task2HmAlphaCharacters {
+public class Task1SwapStrings {
     /*1. Write a program to swap 2 String without a temporary variable?*/
 
     public static void main(String[] args) {

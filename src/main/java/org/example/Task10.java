@@ -8,7 +8,7 @@ return the first non-repeating character. For example, in the string
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task9 {
+public class Task10 {
     public static void main(String[] args) {
         Set<Integer>numbers=new HashSet<>();
         numbers.add(25);
