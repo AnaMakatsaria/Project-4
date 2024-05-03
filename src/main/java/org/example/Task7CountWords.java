@@ -6,7 +6,7 @@ number of words in a given string. Words are separated by spaces or
 punctuation. For example, the input "Hello, world!" should return 2*/
     public static int counter(String string){
 
-        return string.split("[, .!?]").length;
+        return string.split("[, .!?]+").length;
     }
 
 }
